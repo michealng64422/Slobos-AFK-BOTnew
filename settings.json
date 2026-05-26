@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "punki Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "BOTFORSERVER
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "CreativyPunki.aternos.me:21266",
+    "port": 21266,
+    "version": "1.20.1"
   },
   "position": {
     "enabled": true,
